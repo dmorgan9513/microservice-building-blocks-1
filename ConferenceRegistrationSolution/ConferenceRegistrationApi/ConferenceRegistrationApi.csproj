@@ -11,7 +11,11 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\" />
+    <EditorConfigFiles Remove="C:\dev\microservice-building-blocks\ConferenceRegistrationSolution\ConferenceRegistrationApi\.editorconfig" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="C:\dev\microservice-building-blocks\ConferenceRegistrationSolution\ConferenceRegistrationApi\.editorconfig" />
   </ItemGroup>
 
 </Project>
